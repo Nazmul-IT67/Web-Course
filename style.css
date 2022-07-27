@@ -1,0 +1,24 @@
+.container{
+   font-family: 'Convergence', sans-serif;
+}
+.brand h2{
+   color: dimgray;
+   font-weight: bold;
+}
+.care{
+   color: rgb(21, 4, 177);
+}
+.menu{
+   margin-left:120px;
+   font-weight: 500;
+}
+.slid h1{
+   font-weight: 900;
+   line-height: 1.5em;
+   color: bisque;
+}
+.slid p{
+   font-weight: 400;
+   line-height: 1.8em;
+   color: bisque;
+}
