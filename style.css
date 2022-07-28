@@ -36,3 +36,6 @@
    background-color: #289BDE;
    border-radius: 5px;
 }
+.students h5, p{
+   color: dimgray;
+}
